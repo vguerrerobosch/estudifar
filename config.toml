@@ -1,0 +1,5 @@
+baseURL = "https://estudifar.com/"
+languageCode = "en-us"
+title = "FAR - Web development studio based in Barcelona"
+disableKinds = ["taxonomy", "taxonomyTerm", "RSS"]
+disableHugoGeneratorInject = true

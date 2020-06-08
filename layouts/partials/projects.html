@@ -1,0 +1,11 @@
+<div class="p-24">
+  <h2 class="text-2xl font-bold">Projects</h2>
+
+  {{ range .projects }}
+    <article class="pb-12">
+      <h1>{{ .title }}</h1>
+      <a class="text-teal-600" href="{{ .url }}">{{ .url }}</a>
+      <p>{{ .comments }}</p>
+    </article>
+  {{ end }}
+</div>

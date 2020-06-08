@@ -1,0 +1,5 @@
+# [[redirects]]
+#   from = "https://estudifar.netlify.com/*"
+#   to = "https://estudifar.com/:splat"
+#   status = 301
+#   force = true
