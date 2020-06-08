@@ -3,3 +3,6 @@
 #   to = "https://estudifar.com/:splat"
 #   status = 301
 #   force = true
+
+[context.production.environment]
+HUGO_VERSION = "0.72.0"
