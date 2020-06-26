@@ -1,5 +1,12 @@
 baseURL = "https://estudifar.com/"
 languageCode = "en-us"
-title = "FAR - Web development studio based in Barcelona"
+title = "Websites & Web Applications - FAR"
 disableKinds = ["taxonomy", "taxonomyTerm", "RSS"]
 disableHugoGeneratorInject = true
+
+[params]
+
+team = [
+  {name = "Jordi Molins", url = "https://jordimolins.com", image = "/jordi-molins.jpg", job_title = "Frontend Developer", bio = "Jordi combines his design background with his experience as a programmer to offer global solutions in web presence and online communication."},
+  {name = "Victor Guerrero", url = "https://vguerrerobosch.com", image = "/victor-guerrero.jpg", job_title = "Fullstack developer", bio = "Odit ullam perspiciatis, nobis distinctio mollitia, quaerat molestiae rem ratione qui ipsum accusamus at quis in necessitatibus sed natus tenetur commodi."}
+]

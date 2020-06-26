@@ -5,3 +5,13 @@
 @tailwind components;
 
 @tailwind utilities;
+
+.list-dotted {
+  @apply .flex .flex-wrap;
+
+  & > li:not(:last-of-type):after {
+    content: '\2022';
+
+    @apply .px-2;
+  }
+}

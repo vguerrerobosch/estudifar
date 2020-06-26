@@ -13,7 +13,13 @@ module.exports = {
     fontFamily: {
       'sans': ['Inter', 'sans-serif']
     },
-    extend: {}
+    extend: {
+      colors: {
+        coal: "#262626",
+        gainsboro: "#dcdcdc",
+        silver: "#a0a0a0",
+      }
+    }
   },
   variants: {},
   plugins: []

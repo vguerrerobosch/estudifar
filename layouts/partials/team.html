@@ -1,8 +1,22 @@
-<div class="p-24">
-  <h2 class="text-2xl font-bold">Team</h2>
-  <div class="">
-    <img class="w-24 h-24 rounded" src="/victor-guerrero-bosch.jpg" alt="Victor Guerrero">
-    <div class="">Victor Guerrero</div>
-    <a href="https://twitter.com/vguerrerobosch" class="text-teal-600">https://twitter.com/vguerrerobosch</a>
+<div class="py-16 sm:py-24">
+  <div class="max-w-2xl mx-auto text-center mb-12 sm:mb-20">
+    {{ partial "components/section-title" "Team" }}
   </div>
+
+  <div class="md:flex justify-center md:-mx-10 -mb-16">
+    {{ range $.Site.Params.team }}
+      <div class="md:w-1/2 max-w-lg mx-auto lg:mx-0 md:px-10 mb-16">
+        <div class="flex items-center mb-2">
+          <img class="w-24 h-24 rounded" src="{{ .image }}" alt="{{ .name }}">
+          <div class="ml-4">
+            <div class="font-bold">{{ .name }}</div>
+            <div class="uppercase text-sm">{{ .job_title }}</div>
+          </div>
+        </div>
+        <p>{{ .bio }}</p>
+        <a href="{{ .url }}" class="text-teal-400">{{ .url }}</a>
+      </div>
+    {{ end }}
+  </div>
+
 </div>

@@ -1,0 +1,34 @@
+tech:
+  - title: Backend
+    items:
+      - Laravel
+      - Laravel Nova
+      - PHP
+      - MySQL
+      - WordPress
+      - Statamic
+      - Kirby
+  - title: Frontend
+    items:
+      - VueJS
+      - AlpineJS
+      - Vanilla JS
+      - Tailwind CSS
+      - Laravel Mix
+      - Hugo
+      - npm
+      - webpack
+  - title: Integrations
+    items:
+      - Stripe
+      - Redsys
+      - Mailchimp
+      - Fathom Analytics
+      - Google Analytics
+      - Google Maps
+  # - title: Server
+  #   items:
+  #     - Digital Ocean
+  #     - Laravel Forge
+  #     - Netlify
+  #     - CDmon
