@@ -1,12 +1,27 @@
-baseURL = "https://estudifar.com/"
+baseURL = "https://estudifar.netlify.app/"
 languageCode = "en-us"
 title = "Websites & Web Applications - FAR"
 disableKinds = ["taxonomy", "taxonomyTerm", "RSS"]
 disableHugoGeneratorInject = true
 
 [params]
+description = 'FAR is a development studio based in Barcelona: we build tailor-made websites & web applications using the most suitable technologies - since 2008'
 
-team = [
-  {name = "Jordi Molins", url = "https://jordimolins.com", image = "/jordi-molins.jpg", job_title = "Frontend Developer", bio = "Jordi combines his design background with his experience as a programmer to offer global solutions in web presence and online communication."},
-  {name = "Victor Guerrero", url = "https://vguerrerobosch.com", image = "/victor-guerrero.jpg", job_title = "Fullstack developer", bio = "Odit ullam perspiciatis, nobis distinctio mollitia, quaerat molestiae rem ratione qui ipsum accusamus at quis in necessitatibus sed natus tenetur commodi."}
+[[params.team]]
+name = "Jordi Molins"
+image = "/jordi-molins.jpg"
+job_title = "Frontend Developer"
+bio = "Jordi combines his design background with his experience as a programmer to offer global solutions in web presence and online communication."
+links = [
+  {url = "mailto:jordi@estudifar.com", text = "jordi@estudifar.com"}
+]
+
+[[params.team]]
+name = "Victor Guerrero"
+image = "/victor-guerrero.jpg"
+job_title = "Fullstack developer"
+bio = "His engineering background encourages Victor to face every new project as an opportunity to deliver outstanding results."
+links = [
+  {url = "https://twitter.com/vguerrerobosch", text = "@vguerrerobosch"},
+  {url = "https://vguerrerobosch.com", text = "vguerrerobosch.com"}
 ]

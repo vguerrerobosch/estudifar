@@ -13,8 +13,10 @@
             <div class="uppercase text-sm">{{ .job_title }}</div>
           </div>
         </div>
-        <p>{{ .bio }}</p>
-        <a href="{{ .url }}" class="text-teal-400">{{ .url }}</a>
+        <p class="mb-2">{{ .bio }}</p>
+        {{ range .links }}
+          <a href="{{ .url }}" class="text-sm block text-teal-400">{{ .text }}</a>
+        {{ end }}
       </div>
     {{ end }}
   </div>

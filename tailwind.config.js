@@ -16,8 +16,7 @@ module.exports = {
     extend: {
       colors: {
         coal: "#262626",
-        gainsboro: "#dcdcdc",
-        silver: "#a0a0a0",
+        gainsboro: "#dcdcdc"
       }
     }
   },
