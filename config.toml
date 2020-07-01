@@ -1,4 +1,4 @@
-baseURL = "https://estudifar.netlify.app/"
+baseURL = "https://wearefar.com/"
 languageCode = "en-us"
 title = "Websites & Web Applications - FAR"
 disableKinds = ["taxonomy", "taxonomyTerm", "RSS"]
