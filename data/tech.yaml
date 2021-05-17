@@ -2,6 +2,7 @@ tech:
   - title: Backend
     items:
       - Laravel
+      - Livewire
       - Laravel Nova
       - PHP
       - MySQL
