@@ -21,7 +21,7 @@ projects:
     year: 2019
   - title: Cercle d'Economia
     url: https://cercledeconomia.com
-    comments: Static generated Gatsby & WordPress website. Design by Domo-A
+    comments: Static generated Gatsby & WordPress website. Design by Domo-A.
     year: 2019
   - title: Fundació Banc Sabadell
     url: https://fundacionbancosabadell.com
@@ -29,11 +29,11 @@ projects:
     year: 2015
   - title: Alma Hotels
     url: https://almahotels.com
-    comments: WordPress multisite. Design by Domo-A
+    comments: WordPress multisite. Design by Domo-A.
     year: 2018
   - title: Alma Alive
     url: https://alive.almahotels.com
-    comments: Laravel web application
+    comments: Laravel web application.
     year: 2019
   - title: Alreves Editorial
     url: https://alreveseditorial.com
