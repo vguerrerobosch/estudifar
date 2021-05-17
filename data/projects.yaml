@@ -1,4 +1,7 @@
 projects:
+  - title: Laspiaggia Cosmetics
+    url: https://laspiaggiacosmetics.com
+    comments: Laravel Livewire + AlpineJS ecommerce.
   - title: DocsBarcelona
     url: https://docsbarcelona.com
     comments: Statamic powered website. Design by Domo-A.
