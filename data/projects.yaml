@@ -3,6 +3,14 @@ projects:
     url: https://laspiaggiacosmetics.com
     comments: Laravel Livewire + AlpineJS ecommerce.
     year: 2021
+  - title: Illustrators Catalan Arts
+    url: https://illustrators.catalanarts.cat
+    comments: An illustrators catalog built with Laravel Livewire.
+    year: 2021
+  - title: Birabiro Editorial
+    url: https://birabiroeditorial.com
+    comments: Laravel Livewire + AlpineJS ecommerce.
+    year: 2021
   - title: DocsBarcelona
     url: https://docsbarcelona.com
     comments: Statamic powered website. Design by Domo-A.
