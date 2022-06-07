@@ -12,6 +12,7 @@ tech:
   - title: Frontend
     items:
       - VueJS
+      - NuxtJS
       - AlpineJS
       - Vanilla JS
       - Tailwind CSS
