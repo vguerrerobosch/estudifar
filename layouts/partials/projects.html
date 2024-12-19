@@ -7,8 +7,9 @@
       {{ range .projects }}
         <article class="sm:w-1/2 lg:w-1/3 sm:px-4 mb-6 sm:mb-10">
           <a href="{{ .url }}" class="block hover:text-teal-400 transition-colors duration-300">
-            <h1 class="text-xl leading-tight mb-2">{{ .title }}<span class="text-xs pl-2">{{ .year }}</span></h1>
-            <p class="text-sm">{{ .comments }}</p>
+            <h1 class="text-xl leading-tight">{{ .title }}<span class="text-xs pl-2">{{ .year }}</span></h1>
+            <p class="mt-1">{{ .client }}</p>
+            <p class="max-w-xs text-sm mt-2">{{ .comments }}</p>
           </a>
         </article>
       {{ end }}

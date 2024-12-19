@@ -1,57 +1,56 @@
 projects:
-  - title: Laspiaggia Cosmetics
-    url: https://laspiaggiacosmetics.com
-    comments: Laravel Livewire + AlpineJS ecommerce.
-    year: 2021
+  - title: Arts at CERN
+    url: https://arts.cern
+    comments: WordPress site. Design by Domo-A.
+    client: CERN (European Organization for Nuclear Research)
+    year: 2024
+  - title: City Cancer Challenge
+    url: https://citycancerchallenge.org/
+    comments: WordPress site. Design by Firma.
+    client: City Cancer Challenge Foundation
+    year: 2023
   - title: Illustrators Catalan Arts
     url: https://illustrators.catalanarts.cat
-    comments: An illustrators catalog built with Laravel Livewire.
+    comments: An illustrators catalog built with Laravel Livewire. Design by Domo-A.
+    client: Catalan Arts (Government of Catalonia)
     year: 2021
-  - title: Birabiro Editorial
-    url: https://birabiroeditorial.com
-    comments: Laravel Livewire + AlpineJS ecommerce.
-    year: 2021
-  - title: DocsBarcelona
-    url: https://docsbarcelona.com
-    comments: Statamic powered website. Design by Domo-A.
+  - title: Nichols Architects
+    url: https://www.nicholsarch.com/
+    comments: NuxtJS + WordPress. Design by Firma.
+    client: Nichols Architects
+    year: 2022
+  - title: El Meu Primer Festival de Cine
+    url: https://primerfestivaldecine.com/
+    comments: Laravel website. Design by Domo-A.
+    client: El Meu Primer Festival de Cine (Film Festival)
     year: 2020
-  - title: Docs&Me
-    url: https://me.docsbarcelona.com
-    comments: Laravel web application.
-    year: 2020
-  - title: About Arianne
-    url: https://aboutarianne.com
-    comments: Woocommerce custom theme. Design by Malva Sawada.
-    year: 2018
-  - title: About Arianne Wholesale
-    url: https://wholesale.aboutarianne.com
-    comments: Laravel web application.
-    year: 2019
-  - title: Cercle d'Economia
-    url: https://cercledeconomia.com
-    comments: Static generated Gatsby & WordPress website. Design by Domo-A.
-    year: 2019
-  - title: Fundació Banc Sabadell
-    url: https://www.fundacionbancosabadell.com
-    comments: Wordpress Theme. Design by Mario Eskenazi.
-    year: 2015
   - title: Alma Hotels
     url: https://almahotels.com
     comments: WordPress multisite. Design by Domo-A.
+    client: Alma Hotels (Luxury Hotel Chain)
     year: 2018
-  - title: Alma Alive
-    url: https://alive.almahotels.com
-    comments: Laravel web application.
-    year: 2019
-  - title: Alreves Editorial
-    url: https://alreveseditorial.com
-    comments: Multidomain Laravel Nova powered ecommerce.
-    year: 2019
-  - title: Accure
-    url: https://accure.health
-    comments: WordPress theme. Design by Firma.
-    year: 2020
+  - title: Clandestina Editorial
+    url: https://clandestionaeditorial.com
+    comments: Laravel eCommerce. Design by Domo-A.
+    client: Clandestina Editorial (Independent Publisher)
+    year: 2023
+  - title: Birabiro Editorial
+    url: https://birabiroeditorial.com
+    comments: Laravel eCommerce. In-house design.
+    client: Birabiro Editorial (Children's Book Publisher)
+    year: 2021
+  - title: Laspiaggia Cosmetics
+    url: https://laspiaggiacosmetics.com
+    comments: Laravel eCommerce. In-house design.
+    client: Laspiaggia Cosmetics (Eco-Friendly Beauty Brand)
+    year: 2021
+  - title: Col·lecció Banc Sabadell
+    url: https://www.coleccionbancosabadell.com
+    comments: WordPress site. Design by Mario Eskenazi.
+    client: Banc Sabadell (Spanish Banking Group)
+    year: 2015
   - title: Llegir en Català
     url: https://llegirencatala.cat
-    comments: WordPress custom theme.
+    comments: More than 10 years and running.
+    client: Llegir en Català (Association of Independent Publishers)
     year: 2014

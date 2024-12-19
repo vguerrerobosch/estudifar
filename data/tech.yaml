@@ -8,18 +8,14 @@ tech:
       - MySQL
       - WordPress
       - Statamic
-      - Kirby
   - title: Frontend
     items:
+      - Tailwind CSS
+      - AlpineJS
+      - ViteJS
       - VueJS
       - NuxtJS
-      - AlpineJS
-      - Vanilla JS
-      - Tailwind CSS
-      - Laravel Mix
       - Hugo
-      - npm
-      - webpack
   - title: Integrations
     items:
       - Stripe
@@ -28,6 +24,7 @@ tech:
       - Fathom Analytics
       - Google Analytics
       - Google Maps
+      - Brevo
   # - title: Server
   #   items:
   #     - Digital Ocean

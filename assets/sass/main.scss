@@ -7,7 +7,7 @@
 @tailwind utilities;
 
 .list-dotted {
-  @apply .flex .flex-wrap;
+  @apply .flex .flex-wrap .justify-center;
 
   & > li:not(:last-of-type):after {
     content: '\2022';
